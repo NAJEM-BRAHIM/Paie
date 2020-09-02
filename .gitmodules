@@ -1,0 +1,4 @@
+[submodule "juventudproductivabicentenaria/juventud_productiva_bicentenaria_free"]
+	path = juventudproductivabicentenaria/juventud_productiva_bicentenaria_free
+	url = git@github.com:juventudproductivabicentenaria/juventud_productiva_bicentenaria_free.git
+	branch = 12.0
